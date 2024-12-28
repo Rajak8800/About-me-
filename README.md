@@ -1,4 +1,3 @@
-# About-me
 # Hello, I'm Rajak!
 
 I'm passionate about turning data into valuable insights and driving business growth through data-driven strategies.
