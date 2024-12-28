@@ -1,5 +1,4 @@
 # Hello, I'm Rajak!
-
 I'm passionate about turning data into valuable insights and driving business growth through data-driven strategies.
 As a team player, I thrive in collaborative environments and enjoy tackling complex problems. 
 Let's connect and explore how I can contribute to your organization!
